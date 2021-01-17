@@ -1,5 +1,11 @@
 # mPage
 Basic web page, made with Django. Will be remade for personal use.
+
+To start:
+```
+python manage.py runserver
+```
+
 <br>
 <br>
 <strong>Tested on:</strong>
