@@ -19,7 +19,7 @@ python manage.py runserver
 <h2> History </h2>
 <ul>
   <li> 10.06.2020 - Set up, connected with ready CSS stiled HTML page. Re-aranged with Django API  </li>
-  <li>  </li>
+  <li> 27.02.2021 - Code clean-up and some sections deleted  </li>
   <li>  </li>
   <li>  </li>
   <li>  </li>
